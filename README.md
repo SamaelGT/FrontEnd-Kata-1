@@ -5,6 +5,8 @@ Kata 1 de Frontend
 Descripción: Es una veterinaria que se encuentra en Monclova, Coah. con años de experiencia comprometiendose con el bienestar y cuidado de los animales.
 Nuestra misión y amor por ellos nos motivan a buscar el crecimiento en todas las áreas posibles, para brindar un servicio inigualable y un trato especial a cada mascota que nos visita.
 
+[Veterinaria - SamaelGT ](https://github.com/SamaelGT/FrontEnd-Kata-1/blob/main/Veterinaria.png)
+
 
 # Requerimientos
 1.- Sistema de cuentas para manejar cada mascota que tenga el cliente.
@@ -41,3 +43,5 @@ Hombres, mujeres y adolescentes sin distinción de genero, que tengan mascotas.
 2.- Que quieran rapidez y atencion a sus mascotas.
 3.- Abierto a nuevas tecnologias.
 4.- Rapidez en servicios y urgencias.
+
+![PublicObject - SamaelGT ](https://github.com/SamaelGT/FrontEnd-Kata-1/blob/main/PublicObject.png)
