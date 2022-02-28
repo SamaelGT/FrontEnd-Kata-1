@@ -11,11 +11,11 @@ Nuestra misión y amor por ellos nos motivan a buscar el crecimiento en todas la
 
 
 # Requerimientos
-1.- Sistema de cuentas para manejar cada mascota que tenga el cliente.
-2.- Formulario de nueva cita para la consulta o si es urgencia.
-3.- Forma de pago completo o en partes.
-4.- Historial de citas y pagos.
-5.- Crear documento para mandar al cliente.
+1.  Sistema de cuentas para manejar cada mascota que tenga el cliente.
+2.  Formulario de nueva cita para la consulta o si es urgencia.
+3.  Forma de pago completo o en partes.
+4.  Historial de citas y pagos.
+5.  Crear documento para mandar al cliente.
 
 ## Buyer Persona
 Donna Paulsen.
@@ -41,9 +41,9 @@ Que recidan en Monclova, Coah.
 Hombres, mujeres y adolescentes sin distinción de genero, que tengan mascotas.
 
 ## Psicografico:
-1.- Gusto por la tecnologia.
-2.- Que quieran rapidez y atencion a sus mascotas.
-3.- Abierto a nuevas tecnologias.
-4.- Rapidez en servicios y urgencias.
+1.  Gusto por la tecnologia.
+2.  Que quieran rapidez y atencion a sus mascotas.
+3.  Abierto a nuevas tecnologias.
+4.  Rapidez en servicios y urgencias.
 
 ![PublicObject - SamaelGT ](https://github.com/SamaelGT/FrontEnd-Kata-1/blob/main/PublicObject.png)
