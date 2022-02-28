@@ -1,6 +1,8 @@
 # FrontEnd-Kata-1
 Kata 1 de Frontend
 
+![Logo - SamaelGT ](https://github.com/SamaelGT/FrontEnd-Kata-1/blob/main/Logo.png)
+
 ## Caso: Pet+
 Descripción: Es una veterinaria que se encuentra en Monclova, Coah. con años de experiencia comprometiendose con el bienestar y cuidado de los animales.
 Nuestra misión y amor por ellos nos motivan a buscar el crecimiento en todas las áreas posibles, para brindar un servicio inigualable y un trato especial a cada mascota que nos visita.
