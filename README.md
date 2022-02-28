@@ -21,6 +21,9 @@ Trabaja como secretaria en Hessintong Oil.
 **Sus gustos:** Le encanta salir a pasear junto a Mike, su mascota y escuchar musica. Comparte sus recorridos juto a Mike en Facebook e Instagram.
 **Susmiedos:** Se aterra de que le pueda llegar a pasar algo a Mike, como síntomas, mal estar o simplemente moquillo. No le desea esto a ninguno de los demás animalitos.
 
+![BuyerPersona - SamaelGT ](https://github.com/SamaelGT/FrontEnd-Kata-1/blob/main/BuyerPersona.png)
+
+
 Esta encantada con la idea de agilizar las citas medicas y la facilidad de las notificaciones por correo para avisos urgentes.
 
 # Publico Objetico
